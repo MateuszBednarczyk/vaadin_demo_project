@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/mateuszbednarczyk/Desktop/vaadin_demo/vaadin_demo_project/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/mateuszbednarczyk/Desktop/vaadin_demo/vaadin_demo_project/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/mateuszbednarczyk/Desktop/vaadin_demo/vaadin_demo_project/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/mateuszbednarczyk/Desktop/vaadin_demo/vaadin_demo_project/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/mateuszbednarczyk/Desktop/vaadin_demo/vaadin_demo_project/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/mateuszbednarczyk/Desktop/vaadin_demo/vaadin_demo_project/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/mateuszbednarczyk/Desktop/vaadin_demo/vaadin_demo_project/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/mateuszbednarczyk/Desktop/vaadin_demo/vaadin_demo_project/./src/main/frontend/generated/jar-resources",
+  "themeName": "my-theme",
+  "clientServiceWorkerSource": "/Users/mateuszbednarczyk/Desktop/vaadin_demo/vaadin_demo_project/target/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
